@@ -7,3 +7,4 @@ this is test message to check pull command
 6
 7
 8
+This is the change made by me
